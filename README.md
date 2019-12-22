@@ -1,5 +1,5 @@
 ## Sentiment-Analysis-of-twitter-data
-NLP based project that quantifies the mood of a tweet using 4 different algorithms and creates a model for future prediction.
+NLP based project that quantifies the mood of a tweet using different algorithms and creates a model for future prediction.
 
 ## Important Formulas
 #### The equation of the conditional probability of Naive Bayes algorithm
